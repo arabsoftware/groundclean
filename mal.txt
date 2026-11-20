@@ -1,0 +1,4 @@
+make            # release, host arch
+make arch=32    # i686
+make arch=64    # x86_64
+make debug
